@@ -1,0 +1,10 @@
+1.	mkdir data
+2.	execute copy tree for data/
+3.	execute next statement for lowercase
+4.	mv  data/* .
+5.	rm –rf data/
+6.	cd ..
+7.	mkdir data
+8.	mv working/* data/
+9.	mv data working/
+
