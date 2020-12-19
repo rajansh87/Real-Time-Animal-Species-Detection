@@ -1,6 +1,5 @@
-# Major-Project
-Note: all changes would be commited over here, either replace whole file with new file or better is make changes in the particular file and commit it.
- 
+## Major-Project: Real-Time Animal Species Detection
+
 ## Description:
 #### A CNN model for the detection of a variety of animal species which are captured with the help of the mobile application. We are making predictions in real-time, as the animal comes in front of the camera, each frame would be sent to the system where our model will produce the output within a few micro-seconds.
 #### Project Consists of the following subtask:
