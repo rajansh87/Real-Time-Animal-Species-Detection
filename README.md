@@ -1,4 +1,4 @@
-## Major-Project: Real-Time Animal Species Detection
+# Major-Project: Real-Time Animal Species Detection
 
 ## Description:
 #### A CNN model for the detection of a variety of animal species which are captured with the help of the mobile application. We are making predictions in real-time, as the animal comes in front of the camera, each frame would be sent to the system where our model will produce the output within a few micro-seconds.
